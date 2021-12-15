@@ -1,0 +1,92 @@
+[32m
+Choose the command: 
+[0m 1 -  Load the table from the file.
+ 2 -  Display the table on screen.
+ 3 -  Display all musical spec. age less the spec. duration.
+ 4 -  Add an entry to the end of the table.
+ 5 -  Delete an entry from the table for the name of perfomance.
+ 6 -  Sort (with choosing type and parameter) and display the table on the screen.
+ 7 -  Display a table by the sorted key table.
+ 8 -  Compare the time of sorting the table by sorting with
+      complexities O(n^2) and O(n*log(n)) and compare
+      the time of normal sorting and sorting the key table.
+ 9 -  Clean table.
+ 10 - Program exit.
+
+Enter the number of command: [33m - 1 - Entering data from a file
+[0mData is loaded into the table
+[32m
+Choose the command: 
+[0m 1 -  Load the table from the file.
+ 2 -  Display the table on screen.
+ 3 -  Display all musical spec. age less the spec. duration.
+ 4 -  Add an entry to the end of the table.
+ 5 -  Delete an entry from the table for the name of perfomance.
+ 6 -  Sort (with choosing type and parameter) and display the table on the screen.
+ 7 -  Display a table by the sorted key table.
+ 8 -  Compare the time of sorting the table by sorting with
+      complexities O(n^2) and O(n*log(n)) and compare
+      the time of normal sorting and sorting the key table.
+ 9 -  Clean table.
+ 10 - Program exit.
+
+Enter the number of command: [33m - 2 - Output the table
+[0m
+        Theatre                Perfomance        Director           Price            Type           Genre            Other info.(for musical) 
+
+     Vahtangova               DyadyaVanya         Tumenas         2000-4000      for adult           Play
+      Ermolovoi                      Text       Menshikov         1500-5000      for adult           Play
+       Pushkina       ObeshanieNaRassvete         Tarasov          400-3000      for adult           Play
+        Musical                  LaLaLand           Smith         3000-7000        musical                     Smith, USA, 6+, 150 min
+    Mihailovski               Shelkunchik           Duato         3500-12500        musical                     Chaikovsky, Russia, 6+, 135 min
+          Drama                     Afera         Osminov          180-800      for adult           Play
+        Bolshoi                   Spartak     Grigirovoch        11100-30000        musical                     Hachaturyan, Armenia, 12+, 185 min
+      Ermolovoi                    Makbet       Menshikov          500-7000      for adult           Play
+           Ramt                 GoreOtUma         Borodin          800-3500      for adult           Play
+      ChelDrama            SonVLetnuuNoch         Fedotov          450-4000      for adult         Comedy
+      Satirikon             Blizkiedruzia        Sotnikov          800-3000      for adult           Play
+          Kukol              TriPorosenka       Balakirev         1100-2200  for childlike     Fairy tale      1+
+          Drama            IvanVasilevich         Gildeev         1350-3100      for adult         Comedy
+     MosMusical                    Revers          Kolcov         1000-4000        musical                     Brown, Canada, 18+, 75 min
+  Alexandriiski                     Voron          Roshin          800-8000      for adult     Fairy tale
+      Mariinsky                    Mazepa         Gergiev         1600-3000        musical                     Chaikovsky, Russia, 12+, 235 min
+          Kukol                Chipollino       Obrazcova          400-3000  for childlike     Fairy tale      6+
+        Bolshoi            LebedinoeOzero     Grigorovich        18800-37500        musical                     Chaikovsky, Russia, 12+, 160 min
+          Drama                       Ten          Lomkin          180-1200      for adult     Fairy tale
+           Ramt            IaHochuVShkolu          Barkar         1000-2400      for adult         Comedy
+     MosMusical          ChudesaIKuralesi       Shvidkaya         1000-4500        musical                     Baskin, Russia, 6+, 120 min
+        Bolshoi                    Zhizel       Patmansky        13300-16900        musical                     Adan, France, 12+, 140 min
+      Ermolovoi                      1900       Menshikov         5000-7000      for adult           Play
+           Ramt              PrincINishii        Krutikov          700-2400  for childlike           Play      6+
+          Kukol                   Kolobok          Petrov          400-2200  for childlike     Fairy tale      3+
+     MosMusical            PrincessaCirka      Soldevilia          500-1000        musical                     Calman, USA, 6+, 180 min
+       Pushkina                 Mashalava       Kimmelman         1000-2500      for adult           Play
+      ChelDrama                  Nedorosl         Gordeev          350-2450      for adult         Comedy
+   Mayakovskogo              MertvyeDushi      Arcibashev         1000-6000      for adult           Play
+      Satirikon                  Shutniki       Marchelli          500-4500      for adult         Comedy
+       Pushkina        VlublenniyShekspir            Hold          700-5000      for adult     Fairy tale
+   Mayakovskogo                   MamaKot      Struzhkova          800-1800  for childlike     Fairy tale      6+
+  Alexandriiski    PrestuplenieINakazanie      Vidnyansky         1100-8000      for adult           Play
+  Alexandriiski             LerurgiyaZero           Fokin          300-8000      for adult           Play
+     MosMusical                 PrimeTime        Shvidkoi          400-10000        musical                     Lepazh, Canada, 12+, 170 min
+    Mihailovski                  Zolushka        Messerer         2500-7500  for childlike     Fairy tale      6+
+          Drama                   Revizor         Gordeev         1050-2400      for adult         Comedy
+      Satirikon        VseOttenkiGolubogo          Raikin          350-4000      for adult           Play
+     Vahtongova                       Beg         Butusov          550-3300      for adult           Play
+ DvorecIskusstv                   Myaugli       Kuklachev          500-3000  for childlike           Play      0+
+[32m
+Choose the command: 
+[0m 1 -  Load the table from the file.
+ 2 -  Display the table on screen.
+ 3 -  Display all musical spec. age less the spec. duration.
+ 4 -  Add an entry to the end of the table.
+ 5 -  Delete an entry from the table for the name of perfomance.
+ 6 -  Sort (with choosing type and parameter) and display the table on the screen.
+ 7 -  Display a table by the sorted key table.
+ 8 -  Compare the time of sorting the table by sorting with
+      complexities O(n^2) and O(n*log(n)) and compare
+      the time of normal sorting and sorting the key table.
+ 9 -  Clean table.
+ 10 - Program exit.
+
+Enter the number of command: 
